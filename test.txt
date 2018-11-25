@@ -1,8 +1,3 @@
 fdsadfsaj
 dfasjoefabc de
-<<<<<<< HEAD
 ads 123bug issue
-=======
-ads 123bug issue
-lllll test
->>>>>>> dev
